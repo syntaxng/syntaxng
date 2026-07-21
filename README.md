@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Niteen!
+**A passionate Tech Enthusiast || Future Developer**
 
+Email Me 👉 ✉️ **niteen.gautam26@gmail.com** For Anything. 😊😊
+
+- 🔭 **I’m currently working on:** Tech Skills.
+- 🌱 **I’m currently learning:** Coding And Web Development.
+- 👯 **I’m looking to collaborate on:** Skills Development.
+- 🤔 **I’m looking for help with:** Tech Help Cuz I Want To Keep Learning.
+- 💬 **Ask me about:** Tech
+- 📫 **How to reach me:** niteen.gautam26@gmail.com
+- 😄 **Pronouns:** Niteen Ji!
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me!!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enough_niteen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteen.gautam26@gmail.com) 
 
