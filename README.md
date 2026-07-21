@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Niteen!
-**A passionate Tech Enthusiast || Future Developer**
+**A Passionate Tech Enthusiast || Future Developer**
 
 Email Me 👉 ✉️ **niteen.gautam26@gmail.com** For Anything. 😊😊
 
