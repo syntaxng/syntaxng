@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **niteen.gautam26@gmail.com** For Anything. 😊😊
 * 👯 **Looking to collaborate on:** Simple starter projects and team learning.
 * 🤔 **Looking for guidance on:** Writing clean code and navigating developer tools.
 * 💬 **Ask me about:** My progress and what I'm currently figuring out.
-* 📫 **Get in touch:**niteen.gautam26@gmail.com
+* 📫 **Get in touch:** niteen.gautam26@gmail.com
 * ⚡ **Fun fact:** Always curious, constantly learning, and excited to build cool things.
 
 ## 🌐 Socials:
