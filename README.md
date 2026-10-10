@@ -3,14 +3,16 @@
 
 Email Me 👉 ✉️ **niteen.gautam26@gmail.com** For Anything. 😊😊
 
-- 🔭 **I’m currently working on:** Tech Skills.
-- 🌱 **I’m currently learning:** Coding And Web Development.
-- 👯 **I’m looking to collaborate on:** Skills Development.
-- 🤔 **I’m looking for help with:** Tech Help Cuz I Want To Keep Learning.
-- 💬 **Ask me about:** Tech
-- 📫 **How to reach me:** niteen.gautam26@gmail.com
-- 😄 **Pronouns:** Niteen Ji!
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me!!
+### Hey! Welcome to my profile 🚀
+
+* 🔭 **Currently working on:** Turning curiosity into working code.
+* 🌱 **Currently learning:** The essentials of software development step by step.
+* 👯 **Looking to collaborate on:** Simple starter projects and team learning.
+* 🤔 **Looking for guidance on:** Writing clean code and navigating developer tools.
+* 💬 **Ask me about:** My progress and what I'm currently figuring out.
+* 📫 **Get in touch:** niteen.gautam26@gmail.com
+* ⚡ **Fun fact:** Always curious, constantly learning, and excited to build cool things.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enough_niteen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteen.gautam26@gmail.com) 
 
